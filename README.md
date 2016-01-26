@@ -28,4 +28,5 @@ I've been using audacity to record sounds on my mac, then in some cases, export 
 * doot - clicking a plastic containers handle closed on it.
 * doot2 - hitting a plastic container with a wooden spoon.
 * deet-deet-deet-deet-deet - hitting a small wooden cutting board with a wooden spoon.
-
+* spinning-ring - my wedding ring, spinning on my desk
+* spinning-quarter - a quarter, spinning on my desk
