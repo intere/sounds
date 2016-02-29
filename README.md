@@ -30,3 +30,4 @@ I've been using audacity to record sounds on my mac, then in some cases, export 
 * deet-deet-deet-deet-deet - hitting a small wooden cutting board with a wooden spoon.
 * spinning-ring - my wedding ring, spinning on my desk
 * spinning-quarter - a quarter, spinning on my desk
+* velcro1 - The sound of Velcro being torn open (multiple times).
